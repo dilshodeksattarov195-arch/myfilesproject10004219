@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderperify",
+        "uuid": 2881577,
+        "checksum": "tq7pi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
